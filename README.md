@@ -4,7 +4,7 @@ This repository contains a potree.js visualization of a point cloud showing the 
 
 ### Description
 
-The data set for this work was downloaded from the class material of Geography 4/572 course at OSU.
+The data set for this work was downloaded from the class material of [Geography 4/572 course](https://github.com/jakobzhao/geog4572) at OSU.
 
 The first part of the process, building the point cloud, was made using the software Agisoft Photoscan. After loading in the program the 166 photos provided, I first ran the 'align photos' command under workflow, setting it to 'low' to reduce elaboration time. Then I ran the 'build dense cloud' command, setting the accuracy on 'medium'. The result is shown in the image below.
 
