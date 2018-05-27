@@ -8,7 +8,7 @@ The data set for this work was downloaded from the class material of Geography 4
 
 The first part of the process, building the point cloud, was made using the software Agisoft Photoscan. After loading in the program the 166 photos provided, I first ran the 'align photos' command under workflow, setting it to 'low' to reduce elaboration time. Then I ran the 'build dense cloud' command, setting the accuracy on 'medium'. The result is shown in the image below.
 
-![](C:\Users\Giovanni\Desktop\thequest\pointcloud.jpg)
+![](pointcloud.jpg)
 
 
 
